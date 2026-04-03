@@ -1,0 +1,22 @@
+[user]
+    name = Urvish Patel
+    email = patel.urvishkumar@iitgn.ac.in
+
+[core]
+    autocrlf = input
+
+[init]
+    defaultBranch = main
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --decorate --all
+
+[pull]
+    rebase = false
