@@ -1,3 +1,5 @@
+# Privilege Level details
+
 In software systems (especially operating systems and virtualization), **privilege levels** define how much control a piece of code has over the hardware and system resources. Think of it as layers of trust and power—higher privilege = more control, but also more risk if something goes wrong.
 
 Let’s break down the main levels you asked about:
